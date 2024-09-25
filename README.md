@@ -39,6 +39,7 @@ Bar Plots for various attributes to visualize relationships.
 ## Data Preprocessing 🔧
 1-Drop Columns
 2-Encode Categorical Columns
+
 ## Models Building 🏗️
 Using multiple regression models including:
 
@@ -49,9 +50,13 @@ Using multiple regression models including:
 * Decision Tree Regressor
 * AdaBoost Regressor
 * XGBoost Regressor
+
 ## Models Evaluation ✅
+
 Evaluate Models: Using R² score, Mean Squared Error, etc.
+
 Top 5 Residuals: Both for training and testing datasets.
+
 ---
 ## Conclusion 🎉
 Best Models: XG Boost Regressor and Random Forest Regressor showed the highest performance.
