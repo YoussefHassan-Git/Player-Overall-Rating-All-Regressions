@@ -12,6 +12,7 @@ This project focuses on predicting player overall ratings using various regressi
 7. [Models Evaluation](#models-evaluation) ✅
 
 ## Importing Libraries 📦
+
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -20,6 +21,7 @@ import seaborn as sns
 import plotly.express as px
 ```
 ---
+
 ## Data Reading 📖
 ![image](https://github.com/user-attachments/assets/1e7f2842-2ff8-4fc3-be38-d3fc5b636b56)
 
